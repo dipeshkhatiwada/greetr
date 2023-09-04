@@ -1,0 +1,19 @@
+{
+    "name": "dipeshkhatiwada/greetr",
+    "description": "Greetr - A simple Laravel package for test.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dipeshkhatiwada\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dipesh Khatiwada",
+            "email": "depeshkhatiwada@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
